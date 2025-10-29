@@ -26,3 +26,4 @@ jobs:
           region: eu-south-2
           version_label: v-${{ github.run_number }}
           deployment_package: build.zip
+

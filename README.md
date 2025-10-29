@@ -14,5 +14,5 @@ Este proyecto implementa un pipeline de **Integración y Despliegue Continuo (CI
 ## 🌐 URL Pública
 [Ver aplicación en AWS Beanstalk](http://aws-cd-ci-demo-env.eba-qjpt5nfq.eu-south-2.elasticbeanstalk.com)
 
-![CI](https://github.com/tuusuario/aws-ci-cd-pipeline/actions/workflows/ci.yml/badge.svg)
-![CD](https://github.com/tuusuario/aws-ci-cd-pipeline/actions/workflows/cd.yml/badge.svg)
+![CI](https://github.com/dduraan/aws-ci-cd-pipeline/actions/workflows/ci.yml/badge.svg)
+![CD](https://github.com/dduraan/aws-ci-cd-pipeline/actions/workflows/cd.yml/badge.svg)
