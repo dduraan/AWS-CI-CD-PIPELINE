@@ -21,8 +21,8 @@ jobs:
         with:
           aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          application_name: aws-ci-cd-demo
-          environment_name: aws-ci-cd-demo-env
+          application_name: aws-cid-ci-demo
+          environment_name: aws-cd-ci-demo-env
           region: us-east-1
           version_label: v-${{ github.run_number }}
           deployment_package: build.zip
