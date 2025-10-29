@@ -1,0 +1,12 @@
+{
+  "name": "aws-ci-cd-demo",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo 'Sin tests aún' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
